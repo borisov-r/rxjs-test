@@ -1,0 +1,26 @@
+{
+  "name": "rxjs-test",
+  "version": "1.0.0",
+  "description": "simple tests",
+  "main": "index.js",
+  "dependencies": {
+    "rx": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borisov-r/rxjs-test.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Radoslav Borisov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/borisov-r/rxjs-test/issues"
+  },
+  "homepage": "https://github.com/borisov-r/rxjs-test#readme"
+}
